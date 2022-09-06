@@ -44,6 +44,10 @@ a:hover {
     color: rgba(53, 51, 51, 0.61);
 }
 
+.titre-part2 {
+    font-size: 22px;
+}
+
 .bloc {
     width: 100%;
     clear: both;
@@ -669,7 +673,7 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
-}
+} 
 
 .container {
     max-width: 1000px;
@@ -792,7 +796,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #f3976c!important;
 }
 
 .btn-atomic-tangerine {
