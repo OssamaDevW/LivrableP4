@@ -31,10 +31,10 @@ a:hover {
     font-size: 22px;
     color: rgba(34, 32, 32, 0.7);
 }
-
+/*
 .text-center {
     font-size: 15px;
-}
+} */
 
 .citation {
     font-size: 20px;
@@ -809,6 +809,14 @@ h4 {
 
 .tc-white {
     color:#F3976C !important;
+}
+
+#bloc-6 .tc-white {
+    color: #000000 !important;
+}
+
+#bloc-3-what-i-do .mg-md {
+    text-shadow: #000000;
 }
 
 .btn-atomic-tangerine {
