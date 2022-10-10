@@ -36,6 +36,8 @@ a:hover {
     font-size: 15px;
 } */
 
+
+
 .citation {
     font-size: 20px;
     color: #000000;
@@ -46,6 +48,12 @@ a:hover {
 
 .titre-part2 {
     font-size: 22px;
+    font-weight: bold;
+}
+.titre-part3 {
+    color: white;
+    font-weight: 600;
+    text-align: center;
 }
 
 .form-group {
@@ -686,7 +694,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #575757;
 } 
 
 .container {
@@ -738,7 +746,6 @@ a {
 }
 
 h2 {
-    font-size: 22px;
     line-height: 1.4em;
 }
 
