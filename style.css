@@ -31,6 +31,11 @@ a:hover {
     font-size: 22px;
     color: rgba(34, 32, 32, 0.7);
 }
+/*
+.text-center {
+    font-size: 15px;
+} */
+
 
 
 .citation {
@@ -354,7 +359,10 @@ a:hover {
 .navbar .nav {
     padding-top: 2px;
     margin-right: 286px;
-  
+    
+    /*
+    float: right;
+    z-index: 1;*/
 }
 
 .nav > li {
@@ -379,7 +387,7 @@ a:hover {
 
 .navbar-toggle:hover {
     background: transparent!important;
-}  
+}
 
 .navbar-toggle .icon-bar {
     background-color: rgba(0, 0, 0, .5);
@@ -814,6 +822,9 @@ h4 {
     color: #000000 !important;
 }
 
+/*#bloc-3-what-i-do .mg-md {
+    text-shadow: #000000;
+}*/
 .image-resize-mode{
 	width:100px;
 }
@@ -889,6 +900,11 @@ h4 {
     }
 }
 
+/*@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+    .b-parallax {
+        background-attachment: scroll;
+    }
+}*/
 
 @media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
     .b-parallax {
